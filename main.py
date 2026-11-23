@@ -2,6 +2,7 @@
 """Write one calm, curious text to /output/entry.txt.
 
 No network, no dependencies. Python 3.13 compatible.
+The text is 215 characters, within the 1-280 limit.
 """
 
 from pathlib import Path
